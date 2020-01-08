@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px; 
+}
+body{
+	background-color: #eee;
+	position: absolute;
+}
+.wrapper{
+	width: 500px;
+	height: 80%;
+	overflow: hidden;
+	border: 0px solid #000;
+	margin: 100px 500px;
+	padding: 20px; 
+}
